@@ -37,13 +37,13 @@
 
 Olá! Sou estudante de **Desenvolvimento de Sistemas**, interessado em tecnologia, programação e criação de soluções inovadoras.
 
-Tenho interesse em diferentes áreas da computação, especialmente desenvolvimento de software, inteligência artificial, Internet das Coisas (IoT) e sistemas embarcados.
+Tenho interesse em diferentes áreas da computação, especialmente desenvolvimento de software, inteligência artificial, Internet das Coisas (IoT), desenvolvimento mobile e sistemas embarcados.
 
-Durante minha formação, venho desenvolvendo projetos que envolvem programação, integração entre hardware e software, desenvolvimento de aplicações e resolução de problemas reais.
+Durante minha formação, venho desenvolvendo projetos que envolvem programação, integração entre hardware e software, consumo de APIs, desenvolvimento de aplicações e resolução de problemas reais.
 
-Gosto de explorar novas tecnologias, entender como os sistemas funcionam e transformar conhecimentos em projetos práticos.
+Gosto de explorar novas tecnologias, compreender como os sistemas funcionam e transformar conhecimentos em projetos práticos.
 
-**Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções que tenham utilidade no mundo real.**
+**Meu objetivo é evoluir constantemente como desenvolvedor, ampliar meus conhecimentos e construir soluções tecnológicas que tenham utilidade no mundo real.**
 
 ```yaml
 developer:
@@ -151,140 +151,167 @@ Utilizo ferramentas de desenvolvimento para escrever código, testar funcionalid
 
 <div align="center">
 
-### PUBLIC REPOSITORIES
+**SOFTWARE DEVELOPMENT | IoT | ARTIFICIAL INTELLIGENCE | MOBILE**
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 LPR2K26
 
-**Programming Studies | C# & C++**
+<text>**Programming Studies | C#**</text>
 
-Repositório dedicado aos estudos de Desenvolvimento de Sistemas, reunindo atividades práticas e exercícios de programação.
+Repositório voltado aos estudos e atividades práticas da formação em Desenvolvimento de Sistemas, reunindo exercícios e implementações desenvolvidos durante o aprendizado de programação.
 
-**Conteúdos:**
-- Lógica de programação
-- Algoritmos
-- Fundamentos de C#
-- Fundamentos de C++
-- Práticas de desenvolvimento
+**Principais objetivos e conteúdos:**
 
-<img src="https://skillicons.dev/icons?i=cs,cpp&theme=dark"/>
+- Desenvolver o raciocínio lógico e a capacidade de resolução de problemas.
+- Praticar a construção de algoritmos e estruturas de programação.
+- Aplicar conceitos de programação em exercícios práticos.
+- Organizar e versionar códigos utilizando Git e GitHub.
+- Consolidar conhecimentos adquiridos durante a formação técnica.
 
-<br/><br/>
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,visualstudio&theme=dark"/>
 
 <a href="https://github.com/joaolucaasz/LPR2K26">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📱 My Pokédex
 
-**Mobile Development | TypeScript**
+**Mobile Development | React Native | Expo**
 
-Aplicativo mobile desenvolvido com React Native e Expo, utilizando a PokéAPI para consultar e apresentar informações sobre Pokémon.
+Aplicativo mobile desenvolvido durante atividades práticas de desenvolvimento de aplicações móveis. O projeto utiliza a PokéAPI para obter informações sobre Pokémon e apresentá-las em uma interface de consulta.
 
-**Funcionalidades:**
-- Tela de login
-- Listagem de Pokémon
-- Consumo de API externa
-- Paginação de resultados
-- Atualização da listagem
-- Navegação entre telas
+**Principais funcionalidades:**
+
+- **Login:** tela inicial com fluxo de autenticação simulado e navegação para a aplicação.
+- **Listagem de Pokémon:** consulta e apresentação dos dados obtidos pela API.
+- **Consumo de API:** integração com a PokéAPI para buscar informações externas.
+- **Paginação:** carregamento de resultados utilizando os parâmetros `limit` e `offset`.
+- **Atualização de dados:** funcionalidade de atualização da listagem por meio de pull-to-refresh.
+- **Navegação:** organização da aplicação em telas e fluxos de navegação.
+
+**Aspectos técnicos trabalhados:**
+
+- Requisições assíncronas.
+- Integração com serviços externos.
+- Manipulação de dados recebidos em formato JSON.
+- Organização de componentes e páginas.
+- Desenvolvimento de interfaces para dispositivos móveis.
+
+**Technologies:**
 
 <img src="https://skillicons.dev/icons?i=react,ts&theme=dark"/>
-
-<br/><br/>
 
 <a href="https://github.com/joaolucaasz/DPL">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</td>
-</tr>
-</table>
-
-### PROJECTS IN DEVELOPMENT & STUDY
-
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🌱 UrbEco
 
-**Urban Management & Sustainability**
+**Urban Management | Environmental Simulation**
 
-Simulador de gerenciamento urbano com foco em sustentabilidade e consequências ambientais das decisões administrativas.
+Projeto de simulação de gerenciamento urbano com foco na sustentabilidade e nos impactos ambientais causados pelas decisões de administração de uma cidade.
 
-- Gerenciamento urbano
-- Simulação de poluição
-- Sistema de população
-- Impactos ambientais dinâmicos
-- Mecânicas de desenvolvimento urbano
+A proposta é apresentar como o crescimento urbano desordenado, a poluição e a falta de planejamento podem afetar a população, a economia e o meio ambiente.
 
-**Stack:** HTML, CSS, JavaScript
+**Principais mecânicas e funcionalidades:**
 
-</td>
-<td width="50%" valign="top">
+- **Gerenciamento urbano:** interação com diferentes áreas da cidade e acompanhamento de seu desenvolvimento.
+- **Sistema de poluição:** atividades e construções podem aumentar os níveis de poluição.
+- **Impacto econômico:** o nível de poluição influencia a rentabilidade das regiões.
+- **Sistema populacional:** as condições ambientais podem afetar a quantidade de habitantes.
+- **Crescimento urbano desordenado:** áreas ignoradas podem desenvolver ocupações irregulares ao longo do tempo.
+- **Eventos ambientais:** níveis elevados de poluição podem desencadear consequências para a cidade.
+- **Árvores e vegetação:** a qualidade ambiental interfere na preservação das áreas verdes.
+
+**Exemplos de mecânicas implementadas:**
+
+- Cada construção irregular aumenta a poluição e pode reduzir a rentabilidade.
+- A partir de determinados níveis de poluição, árvores começam a desaparecer.
+- O crescimento da poluição pode provocar redução populacional.
+- Regiões muito poluídas sofrem penalidades econômicas.
+
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+
+**Focus:** Urban Simulation, JavaScript Logic and Environmental Awareness.
+
+---
 
 ### 📡 River Monitoring IoT
 
-**Water Quality & Flood Monitoring**
+**Internet of Things | ESP32 | Water Monitoring**
 
-Protótipo de monitoramento de rios em áreas rurais, com coleta de dados para acompanhamento da qualidade da água e identificação de situações de risco.
+Protótipo de monitoramento de rios em áreas rurais, desenvolvido com o objetivo de acompanhar características da água e identificar possíveis situações de risco relacionadas ao aumento do nível do rio.
 
-- Monitoramento de TDS
-- Medição do nível da água
-- Identificação de situações de alerta
-- Integração com aplicativo
-- Notificações de risco
+A proposta busca auxiliar comunidades rurais que utilizam a água dos rios para atividades cotidianas, oferecendo informações que podem contribuir para o acompanhamento das condições ambientais.
 
-**Stack:** C++, ESP32, IoT, Blynk
+**Principais funcionalidades:**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Monitoramento de TDS:** utilização de sensor para medir a concentração de sólidos dissolvidos na água, com resultados expressos em ppm.
+- **Medição do nível da água:** utilização de sensor ultrassônico para acompanhar a distância entre o sensor e a superfície da água.
+- **Identificação de alertas:** comparação das leituras dos sensores com limites previamente configurados.
+- **Monitoramento remoto:** envio de informações para uma interface de acompanhamento.
+- **Notificações:** possibilidade de emitir alertas quando determinados limites de monitoramento são ultrapassados.
+- **Controle de indicadores:** utilização de LEDs para sinalizar condições que exigem atenção.
+
+**Aspectos técnicos trabalhados:**
+
+- Leitura de sinais de sensores.
+- Programação de microcontroladores.
+- Comunicação entre hardware e aplicação.
+- Monitoramento de variáveis ambientais.
+- Integração com plataforma IoT.
+
+**Technologies:**
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino&theme=dark"/>
+
+<img src="https://img.shields.io/badge/ESP32-MICROCONTROLLER-00E5FF?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLYNK-IOT%20PLATFORM-9D4EDD?style=flat-square"/>
+
+**Focus:** Embedded Systems, Sensor Integration and Environmental Monitoring.
+
+---
 
 ### 🤖 EcosimChat
 
-**AI & Educational Gaming**
+**Artificial Intelligence | Educational Application**
 
-Aplicação educacional interativa sobre desastres naturais.
+Aplicação educacional interativa desenvolvida para trabalhar conhecimentos sobre desastres naturais por meio de uma experiência de perguntas e respostas entre jogadores.
 
-- Sistema para dois jogadores
-- Perguntas dinâmicas
-- Integração com inteligência artificial
-- Sistema de pontuação
-- Ranking de jogadores
+O projeto combina desenvolvimento web, lógica de programação e integração com inteligência artificial para criar uma experiência educativa e dinâmica.
 
-**Stack:** Python, Flask, AI
+**Principais funcionalidades:**
 
-</td>
-<td width="50%" valign="top">
+- **Modo para dois jogadores:** permite que dois participantes disputem uma rodada de perguntas.
+- **Sistema de perguntas:** apresentação de questões relacionadas a diferentes desastres naturais.
+- **Categorias:** incêndios, terremotos, tempestades e enchentes.
+- **Pontuação:** contabilização dos acertos durante as partidas.
+- **Ranking:** organização dos resultados dos participantes.
+- **Inteligência artificial:** integração com serviços de IA para apoiar a experiência de perguntas e respostas.
+- **Aplicação web:** interface acessível por navegador.
 
-### 🔬 Future Projects
+**Aspectos técnicos trabalhados:**
 
-**Research & Development**
+- Desenvolvimento de aplicações com Flask.
+- Integração com APIs de inteligência artificial.
+- Manipulação de dados e lógica de jogo.
+- Controle de partidas e pontuação.
+- Desenvolvimento de interfaces web.
 
-Exploração de novas possibilidades tecnológicas e desenvolvimento de soluções práticas.
+**Technologies:**
 
-- Aplicações inteligentes
-- Automação de processos
-- Sistemas embarcados
-- Integração de tecnologias
-- Novas experiências de desenvolvimento
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js&theme=dark"/>
 
-**Focus:** Innovation & Technology
-
-</td>
-</tr>
-</table>
+**Focus:** Artificial Intelligence, Web Development and Educational Technology.
 
 ---
 
@@ -358,76 +385,13 @@ Explorar novas ideias e possibilidades tecnológicas.
 
 - **Curiosity:** entender como as tecnologias funcionam.
 - **Practice:** aprender desenvolvendo projetos reais.
-- **Organization:** manter código e projetos organizados.
+- **Organization:** manter códigos e projetos organizados.
 - **Evolution:** buscar melhorias constantes.
 - **Creativity:** encontrar diferentes maneiras de resolver problemas.
 
 ---
 
-## `07 // GITHUB STATISTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joaolucaasz&show_icons=true&count_private=false&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=9D4EDD&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaasz&layout=compact&langs_count=6&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=joaolucaasz&theme=transparent&hide_border=true&background=050505&ring=00E5FF&fire=9D4EDD&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Contribution Streak"/>
-
-</div>
-
-<details>
-<summary>📊 Understanding my statistics</summary>
-
-- **GitHub Stats:** informações gerais sobre repositórios e contribuições.
-- **Top Languages:** linguagens mais presentes nos códigos dos repositórios públicos.
-- **Streak:** sequência de dias com contribuições registradas.
-
-As estatísticas são atualizadas pelos serviços externos e dependem da disponibilidade deles.
-
-</details>
-
----
-
-## `08 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaolucaasz&bg_color=050505&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&area_color=17102E&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
-<sub>Visualização das atividades e contribuições registradas no GitHub.</sub>
-
----
-
-## `09 // GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joaolucaasz&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" alt="GitHub Profile Trophies"/>
-
-</div>
-
-<sub>Conquistas geradas com base nas atividades públicas do perfil.</sub>
-
----
-
-## `10 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joaolucaasz/joaolucaasz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
-
-**WATCH MY CONTRIBUTIONS EVOLVE.**
-
-</div>
-
----
-
-## `11 // CONNECT WITH ME`
+## `07 // CONNECT WITH ME`
 
 <div align="center">
 
